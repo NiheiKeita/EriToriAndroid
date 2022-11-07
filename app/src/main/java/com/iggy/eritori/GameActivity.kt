@@ -25,7 +25,7 @@ class GameActivity : AppCompatActivity() {
         image.setOnTouchListener { view, motionEvent ->
             when(motionEvent.action){
                 MotionEvent.ACTION_DOWN ->{
-//                    Log.e(TAG,"www")
+//                    Log.e(TAG,"www")a
                     true
                 }
                 MotionEvent.ACTION_UP->{
